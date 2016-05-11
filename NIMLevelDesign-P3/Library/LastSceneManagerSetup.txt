@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_scene/11.3 - phaseControlTesting2.unity
+  isLoaded: 1
+  isActive: 1
